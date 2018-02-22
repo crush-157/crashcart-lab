@@ -147,7 +147,9 @@ $ ./build.sh
 ```
 This will take a few minutes
 
-4.  While we're waiting for the build to complete, we're going to save a considerable amount of time by downloading the crashcart image: [crashcart.img](https://drive.google.com/file/d/19FJkANn8PlQb7BIatRIiSfVA_WFgJA7o/view?usp=sharing).  Building the crashcart image locally typically takes several hours.
+4.  While we're waiting for the build to complete, we're going to save a considerable amount of time by downloading the [crashcart image (crashcart.img)](https://drive.google.com/file/d/19FJkANn8PlQb7BIatRIiSfVA_WFgJA7o/view?usp=sharing).
+
+Building the crashcart image locally typically takes several hours.
 5.  Move the downloaded crashcart.img file to the crashcart directory.
 6.  Run crashcart to get a shell inside the container.  This time do it in the 'thin' container window:
 
